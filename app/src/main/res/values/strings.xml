@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn_txt_clear">CLR</string>
+    <string name="btn_txt_result">=</string>
+    <string name="btn_txt_sum">+</string>
+    <string name="btn_txt_sub">-</string>
+    <string name="btn_txt_div">/</string>
+    <string name="btn_txt_multi">*</string>
+    <string name="btn_txt_decimal">.</string>
+    <string name="btn_txt_1">1</string>
+    <string name="btn_txt_2">2</string>
+    <string name="btn_txt_3">3</string>
+    <string name="btn_txt_4">4</string>
+    <string name="btn_txt_5">5</string>
+    <string name="btn_txt_6">6</string>
+    <string name="btn_txt_7">7</string>
+    <string name="btn_txt_8">8</string>
+    <string name="btn_txt_9">9</string>
+    <string name="btn_txt_0">0</string>
+</resources>
